@@ -1,0 +1,8 @@
+{
+  "name": "vivliostyle-codesandbox",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:uetchy/vivliostyle-codesandbox.git",
+  "author": "Yasuaki Uechi <y@uechi.io> (https://uechi.io/)",
+  "license": "MIT"
+}
